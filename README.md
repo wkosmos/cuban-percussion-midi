@@ -68,6 +68,8 @@ A MIDI mapping intended to cover all needs for programming afro-cuban percussion
   - closed hihat
 5. **Drumset**
   - kick
+  - electric kick
+  - electric snare
   - snare
     - open
     - rimshot
