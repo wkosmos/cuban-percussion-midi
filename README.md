@@ -6,7 +6,7 @@ A MIDI mapping intended to cover all needs for programming afro-cuban percussion
 ### 1. Congas 
 (all techniques for all drums)
 - quinto (high)
-  - open, slap, open slap, 2-hand slap, muff, bass, fingertip/sobao, ghost
+  - open, slap, open slap, 2-hand slap, muff, bass, fingertips, ghost, harmonic
 - conga 1 (C)
 - conga 2 (A)
 - tumba 1 (G)
@@ -37,7 +37,7 @@ A MIDI mapping intended to cover all needs for programming afro-cuban percussion
 ### 5. Cymbals 
 (all techniques for all cymbals except hihat)\
 _Standard:_
-- crash, face, bell, choke\
+- crash, face, bell, crash choke, face choke\
 _Extended:_
 - yarn mallet crash, yarn mallet roll, stick roll as crashes, stick roll as doubles on face, face while hand-damped\
 _Rare:_
