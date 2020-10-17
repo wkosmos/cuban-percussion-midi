@@ -24,7 +24,7 @@ A MIDI mapping intended to cover all needs for programming afro-cuban percussion
 
 ### 3. Timbales
 - macho (high)
-  - open, rimshot, stick press, cascara, rim tap
+  - open, rimshot, stick press, cascara, rim tap, ping
 - hembra (low)
   - open, stick press, cross stick, cascara, rim tap, hand muted, hand open
 ### 4. Accessories (usally for timbales or drums setup)
@@ -58,6 +58,6 @@ _Rare:_
 - electric kick
 - electric snare
 - snare
-  - open, rimshot, cross stick, rim tap, stick press
+  - center, 1/2 to edge, edge, rimshot, ping, cross stick, rim, stick shot, stick on stick shot, buzz center, buzz 1/2 to edge, buzz edge, muted by one hand, dead stroke
 - hihat
   - closed face, closed 45 degree, open face, open 45 degree, wash, foot close, open bell, foot crash
