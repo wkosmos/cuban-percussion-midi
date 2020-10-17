@@ -7,8 +7,9 @@ A MIDI mapping intended to cover all needs for programming afro-cuban percussion
 (all techniques for all drums)
 - quinto (high)
   - open, slap, open slap, 2-hand slap, muff, bass, fingertips, ghost, harmonic, dead
-- conga 1 (C)
-- conga 2 (A)
+- conga 1 (D)
+- conga 2 (C)
+- conga 3 (A)
 - tumba 1 (G)
 - tumba 2 (F)
 - tumba 3 (D)
