@@ -5,14 +5,7 @@ A MIDI mapping intended to cover all needs for programming afro-cuban percussion
 
 1. **Congas** (all techniques for all drums)
   - quinto (high)
-    - open
-    - slap
-    - open slap
-    - 2-hand slap
-    - muff
-    - bass
-    - fingertip/sobao
-    - ghost
+    - open, slap, open slap, 2-hand slap, muff, bass, fingertip/sobao, ghost
   - conga 1 (C)
   - conga 2 (A)
   - tumba 1 (G)
@@ -23,40 +16,24 @@ A MIDI mapping intended to cover all needs for programming afro-cuban percussion
  
 2. **Bongo**
   - macho (high)
-    - open
-    - rim
-    - slap
-    - thumb
-    - finger
+    - open, rim, slap, thumb, finger
   - hembra (low)
-    - open
-    - muff
+    - open, muff
 
 3. **Timbales**
   - macho (high)
     - open
     - rimshot
-    - stick press
-    - cascara
-    - roll?
+    - stick press, cascara, roll?
   - hembra (low)
-    - open
-    - stick press
-    - cascara
-    - hand muted
-    - hand open
+    - open, stick press, cross stick, cascara, hand muted, hand open
 4. **Accessories** (usally for timbales or drums setup)
   - campana
-    - mouth
-    - neck
-    - neck side
-    - heel
+    - mouth, neck, neck side, heel
   - contracampana
-   - neck
-   - mouth
+   - neck, mouth
   - cha bell
-    - mouth
-    - neck
+    - neck, mouth
   - jam block
   - crash 1
   - crash 2
@@ -71,9 +48,5 @@ A MIDI mapping intended to cover all needs for programming afro-cuban percussion
   - electric kick
   - electric snare
   - snare
-    - open
-    - rimshot
-    - cross stick
-    - rim tap
-    - stick press
+    - open, rimshot, cross stick, rim tap, stick press
   
