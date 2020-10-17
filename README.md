@@ -22,9 +22,7 @@ A MIDI mapping intended to cover all needs for programming afro-cuban percussion
 
 3. **Timbales**
   - macho (high)
-    - open
-    - rimshot
-    - stick press, cascara, roll?
+    - open, rimshot, stick press, cascara, roll?
   - hembra (low)
     - open, stick press, cross stick, cascara, hand muted, hand open
 4. **Accessories** (usally for timbales or drums setup)
