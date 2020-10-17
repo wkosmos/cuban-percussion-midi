@@ -29,7 +29,7 @@ A MIDI mapping intended to cover all needs for programming afro-cuban percussion
   - campana
     - mouth, neck, neck side, heel
   - contracampana
-   - neck, mouth
+    - neck, mouth
   - cha bell
     - neck, mouth
   - jam block
