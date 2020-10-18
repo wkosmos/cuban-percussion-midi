@@ -40,8 +40,10 @@ A MIDI mapping intended to cover all needs for programming afro-cuban percussion
 
  _Standard:_
 - crash, face, bell, crash choke, face choke\
+
 _Extended:_
 - yarn mallet crash, yarn mallet roll, stick roll as crashes, stick roll as doubles on face, face while hand-damped\
+
 _Rare:_
 - finger-tapered crash, triangle beater scrape, triamngle beater ting, 90 degree ting, 90 degree face shriek\
 ***
