@@ -36,8 +36,9 @@ A MIDI mapping intended to cover all needs for programming afro-cuban percussion
   - neck, mouth
 - jam block
 ### 5. Cymbals 
-(all techniques for all cymbals except hihat)\
-_Standard:_
+(all techniques for all cymbals except hihat)
+
+ _Standard:_
 - crash, face, bell, crash choke, face choke\
 _Extended:_
 - yarn mallet crash, yarn mallet roll, stick roll as crashes, stick roll as doubles on face, face while hand-damped\
