@@ -24,16 +24,16 @@ A MIDI mapping intended to cover all needs for programming afro-cuban percussion
 
 ### 3. Timbales
 - macho (high)
-  - open, rimshot, stick press, cascara, rim tap, ping
+  - open, rimshot, stick press, cascara, rim tap, ping, dead, hand muted
 - hembra (low)
-  - open, stick press, cross stick, cascara, rim tap, hand muted, hand open
+  - open, stick press, cross stick, cascara, rim tap, hand muted, hand open, dead
 ### 4. Accessories (usally for timbales or drums setup)
 - campana
   - mouth, neck, neck side, heel
 - contracampana
-  - neck, mouth
+  - neck, flat, mouth, neck dead, mouth dead
 - cha bell
-  - neck, mouth
+  - neck, mouth, neck dead, mouth dead
 - jam block
 ### 5. Cymbals 
 (all techniques for all cymbals except hihat)
