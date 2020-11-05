@@ -26,7 +26,7 @@ A MIDI mapping intended to cover all needs for programming afro-cuban percussion
 - macho (high)
   - open, rimshot, stick press, cascara, rim tap, ping, dead, hand muted
 - hembra (low)
-  - open, stick press, cross stick, cascara, rim tap, hand muted, hand open, dead
+  - open, stick press, cross stick, cascara, rim tap, hand muted, hand open, muted with hand (for baqueteo), dead
 ### 4. Accessories (usally for timbales or drums setup)
 - campana
   - mouth, neck, neck side, heel
