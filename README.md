@@ -42,10 +42,7 @@ A MIDI mapping intended to cover all needs for programming afro-cuban percussion
 - crash, surface, bell, crash choke, surface choke
 
 _Extended:_
-- stick roll as crashes, stick roll as doubles on face
-
-_Rare:_
-- finger-tapered crash, triangle beater scrape, triangle beater ping, 90 degree ping, surface shriek
+- stick roll as crashes, stick roll as doubles on face, finger-tapered crash, triangle beater scrape, triangle beater ping, 90 degree ping, surface shriek
 ***
 - crash 1
 - crash 2
@@ -61,6 +58,9 @@ _Rare:_
 - electric kick
 - electric snare
 - snare
-  - center, 1/2 to edge, edge, rimshot, ping, cross stick, rim, stick shot, stick on stick shot, buzz center, buzz 1/2 to edge, buzz edge, muted by one hand, dead stroke
+_Standard:_
+  - center, rimshot, cross stick, rim, dead stroke
+_Extended:_
+  - 1/2 to edge, edge, ping, stick shot, stick on stick shot, buzz center, buzz 1/2 to edge, buzz edge, muted by one hand
 - hihat
   - closed face, closed 45 degree, open face, open 45 degree, wash, foot close, open bell, foot crash
