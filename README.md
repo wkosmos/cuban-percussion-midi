@@ -57,9 +57,9 @@ _Extended:_
 - kick
 - electric kick
 - electric snare
-- snare
+- snare  
 _Standard:_
-  - center, rimshot, cross stick, rim, dead stroke
+  - center, rimshot, cross stick, rim, dead stroke  
 _Extended:_
   - 1/2 to edge, edge, ping, stick shot, stick on stick shot, buzz center, buzz 1/2 to edge, buzz edge, muted by one hand
 - hihat
