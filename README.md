@@ -42,7 +42,7 @@ A MIDI mapping intended to cover all needs for programming afro-cuban percussion
 - crash, surface, bell, crash choke, surface choke
 
 _Extended:_
-- stick roll as crashes, stick roll as doubles on face, face while hand-damped
+- stick roll as crashes, stick roll as doubles on face
 
 _Rare:_
 - finger-tapered crash, triangle beater scrape, triangle beater ping, 90 degree ping, surface shriek
