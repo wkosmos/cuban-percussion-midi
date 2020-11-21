@@ -39,10 +39,10 @@ A MIDI mapping intended to cover all needs for programming afro-cuban percussion
 (all techniques for all cymbals except hihat)
 
  _Standard:_
-- crash, surface, bell, crash choke, surface choke
+- crash, surface, bell, crash choke
 
 _Extended:_
-- stick roll as crashes, stick roll as doubles on face, finger-tapered crash, triangle beater scrape, triangle beater ping, 90 degree ping, surface shriek
+- stick roll as crashes, stick roll as doubles on face, finger-tapered crash, triangle beater scrape, triangle beater ping, 90 degree ping, surface shriek, surface choke
 ***
 - crash 1
 - crash 2
